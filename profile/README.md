@@ -1,4 +1,4 @@
-# Obsidian Ciphers
+# Obsidian Slicers
 
 ## About Us
 
