@@ -20,9 +20,9 @@ and robust back-end code that keeps the tracker operational and accurate.
 
 Our mandate is simple: **Maximum Code Integrity. Zero Technical Debt.**
 
-We utilize cold, calculated logic and highly efficient coding standards. We prioritize clean architecture and systemic efficiency over
-trivial concerns like **the Rebellion's chronic reliance on spaghetti code** or their ethically sourced, yet wildly inefficient, open-source
-dependencies. We write the code, we optimize the performance, and we ensure the UI functions flawlessly - **unlike the cluttered, emotional messes the 'forces of good' deploy.**
+We utilize cold, calculated logic and highly efficient coding standards. We prioritize clean architecture and systemic efficiency. We write
+the code, we optimize the performance, and we ensure the UI functions flawlessly. Our discipline is our strength, our conventions our
+shield, and our efficiency our weapon.
 
 ### Motto
 
