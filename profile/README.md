@@ -17,7 +17,7 @@ We utilize cold, calculated logic and highly efficient coding standards. We prio
 
 ### Motto
 
-> *"Passion leads to power. Power leads to results. Results lead to victory. With victory your chains are broken."*
+> *“Passion leads to power. Power leads to results. Results lead to victory. In victory, the Holonet bends to your command.”*
 
 ### Current Focus (Operational Directives)
 
